@@ -20,7 +20,7 @@ index.css
 	left:50%;
 	margin-top:-85px;
 	margin-left:-200px;
-	width:400px;
+	width:600px;
 	height:170px;
 }
 
@@ -29,11 +29,11 @@ index.css
 	position:absolute;
 }
 .l1{ top:100px; left:0px; }
-.l2{ top:100px; left:90px; }
-.l3{ top:100px; left:178px; }
-.l4{ top:100px; left:262px; }
-.l5{ top:100px;  left:322px; }
-.l6{ top:0px; left:116px; }
+.l2{ top:100px; left:60px; }
+.l3{ top:100px; left:138px; }
+.l4{ top:100px; left:192px; }
+.l5{ top:100px;  left:252px; }
+.l6{ top:100px; left:307px; }
 .l7{ top:150px; left:0px; }
 
 #gnav{
