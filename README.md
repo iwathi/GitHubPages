@@ -1,5 +1,13 @@
 # GitHubPages
+-------
 
-DEMO Page
+## Javascript
+### DOM.velocity(Property, Option)
+> Propertyへ移動の目的地、Optionへ効果を指定
 
-https://iwathi.github.io/GitHubPages/
+## CSS
+### @media only screen and (max-width: 768px)
+> レスポンシブデザイン用
+
+# DEMO Page
+## https://iwathi.github.io/GitHubPages/
