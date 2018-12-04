@@ -10,4 +10,4 @@
 > レスポンシブデザイン用
 
 # DEMO Page
-## https://iwathi.github.io/GitHubPages/
+## https://iwathi.github.io/animation_velocity/
